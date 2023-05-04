@@ -1,0 +1,23 @@
+/*common start*/
+body{
+	font-family: ;
+	font-size: 16px;
+	font-weight: 400px;
+	color: #0f2656;
+}
+/*common end*/
+.container, .menu{	overflow: hidden;
+	
+}
+.logo{float: left;
+
+}
+.right{margin-bottom: 570px;
+	margin-left: 900px;
+}
+
+.m1, .m2, .m3, .m4, .m5{
+	float: left;
+	padding: 5px;
+}
+
